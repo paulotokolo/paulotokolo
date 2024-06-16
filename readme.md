@@ -4,6 +4,7 @@
 
 <h2>🚀 About Me</h2>
 <p>I'm a passionate Full-Stack Developer with a love for building web and mobile applications. My expertise spans across various modern technologies and frameworks.</p>
+
 ---
 
 <h2>🛠️ Tech Stack</h2>
