@@ -49,7 +49,7 @@
 ---
 
 <h2>⚡ Fun Fact</h2>
-<p>I love exploring new technologies and often take part in hackathons. When I'm not coding, you can find me hiking or reading tech blogs.</p>
+<p>I love exploring new technologies. When I'm not coding, you can find me playing basketball or reading tech blogs.</p>
 
 ---
 
