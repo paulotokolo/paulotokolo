@@ -44,15 +44,10 @@
   <a target="_blank" href="https://www.linkedin.com/in/paul-caleb-otokolo-1325811b4"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a target="_blank" href="https://twitter.com/iampaulcaleb"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
   <a target="_blank" href="mailto:paulotokolo98@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://wa.me/2348068243327" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
 </p>
 
 ---
 
 <h2>⚡ Fun Fact</h2>
 <p>I love exploring new technologies. When I'm not coding, you can find me playing basketball or reading tech blogs.</p>
-
----
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&color=blue" alt="Profile Views" />
-</p>
